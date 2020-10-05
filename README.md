@@ -1,23 +1,17 @@
 
 <img src="images/python-logo.png" width="50" height="50"></img>
 
-# Fundamentals of Programming.
-## Python Environment.
-### Testing the system.
+# Mini Mocks.
+## ShotPut.
+### Programming Environment.
 
-The aims of this session are to ensure that the system is working and that you are familiar with how to use the system.
+The aims of this exercise is to gain familarity with the types of questions and work flows involved in Paper 1 of the iGCSE.
 
-* Open the main.py file.
-* Press the green run button (top right corner of the screen) to execute the program.
-* Press the debug button to step through the program line by line.
-* In the editor, add the follwoing line at the top of the code
+## This environment contains the following key files
+* main.py contains the source code.
 
-```python
-# Name: <Insert Your name>
-```
-
-* Run the program again to ensure that it still works.
-* In the terminal window (at teh bottom of the editor, type
+## Submitting Work
+* At the end of each sessions, remember to back up your files by using the following command in the terminal window:
 
 ```bash
 ./submit.sh
